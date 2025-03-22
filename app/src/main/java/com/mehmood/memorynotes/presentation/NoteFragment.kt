@@ -9,10 +9,8 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.core.view.MenuProvider
-import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.mehmmod.memorynotes.R
-//import com.mehmood.memorynotes.databinding.FragmentNoteBinding
 import com.mehmood.core.data.Note
 import com.mehmood.memorynotes.framework.NoteViewModel
 import androidx.navigation.findNavController
